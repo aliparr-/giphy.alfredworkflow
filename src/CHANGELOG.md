@@ -1,17 +1,3 @@
-## [3.0.1] - 2017.08.29
-- Screwed up the last release!
-
-## [3.0.0] - 2017.08.29
-### Changed
-- Switched to Rust
-
-### Removed
-- Non-working copying of actual GIF to the clipboard
-
-## 2.0.3 - 2016.11.23
-### Fixed
-- Giphy URL copying
-
 ## 2.0.2 - 2016.11.14
 ### Changed
 - Fix gif copying

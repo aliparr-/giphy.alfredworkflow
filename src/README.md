@@ -7,12 +7,15 @@ direct URL of the gif to the clipboard.
 [alfred]: https://www.alfredapp.com/
 [giphy]: http://giphy.com/
 
-
-Credit to the original author - "Alpha Chen <alpha.chen@gmail.com>"
-I just fixed the Swift ;)
-
 ## Installation
 
 Download the latest release [here][releases].
 
-[releases]: https://github.com/aliparr-/giphy.alfredworkflow/releases
+[releases]: https://github.com/kejadlen/giphy.alfredworkflow/releases
+
+## TODO
+
+- Get a production Giphy API key?
+- Copy the link to the Giphy page (instead of the gif) with a keyboard
+  modifier.
+- Figure out how to use the mp4 for Quick Look instead of the gif.
